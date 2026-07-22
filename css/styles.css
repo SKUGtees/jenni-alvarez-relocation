@@ -59,12 +59,12 @@ p { margin: 0 0 1em; color: var(--text-soft); }
   align-items: center;
   justify-content: space-between;
   gap: 16px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
 
 .brand-logo {
-  height: 72px;
+  height: 110px;
   width: auto;
 }
 
@@ -492,7 +492,7 @@ p { margin: 0 0 1em; color: var(--text-soft); }
 }
 
 .footer-logo {
-  height: 80px;
+  height: 140px;
   margin: 0 auto 16px;
 }
 
