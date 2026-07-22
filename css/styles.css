@@ -502,7 +502,9 @@ p { margin: 0 0 1em; color: var(--text-soft); }
 }
 
 .footer-logo {
-  height: 420px;
+  width: 420px;
+  max-width: 60%;
+  height: auto;
   margin: 0 auto 16px;
 }
 
