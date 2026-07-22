@@ -1,0 +1,5 @@
+# Raw, unvetted photo dump — not for the public site or repo
+Images/
+
+# Local dev-tool config
+.claude/
