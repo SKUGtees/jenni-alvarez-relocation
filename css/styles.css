@@ -64,9 +64,8 @@ p { margin: 0 0 1em; color: var(--text-soft); }
 }
 
 .brand-logo {
-  height: 48px;
+  height: 72px;
   width: auto;
-  border-radius: 6px;
 }
 
 .main-nav {
@@ -493,9 +492,8 @@ p { margin: 0 0 1em; color: var(--text-soft); }
 }
 
 .footer-logo {
-  height: 52px;
+  height: 80px;
   margin: 0 auto 16px;
-  border-radius: 6px;
 }
 
 .footer-inner p { color: rgba(255,255,255,0.7); margin: 0 0 6px; }
